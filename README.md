@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/EKAVA-a11y/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/EKAVA-a11y/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/EKAVA-a11y/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Number Theory
 |  |
