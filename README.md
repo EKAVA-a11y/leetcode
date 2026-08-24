@@ -43,4 +43,8 @@
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/EKAVA-a11y/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/EKAVA-a11y/leetcode/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
