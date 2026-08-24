@@ -7,10 +7,12 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/EKAVA-a11y/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/EKAVA-a11y/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/EKAVA-a11y/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/EKAVA-a11y/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Math
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/EKAVA-a11y/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/EKAVA-a11y/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/EKAVA-a11y/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/EKAVA-a11y/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Number Theory
@@ -37,4 +39,8 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/EKAVA-a11y/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/EKAVA-a11y/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
