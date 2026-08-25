@@ -6,6 +6,7 @@
 | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/EKAVA-a11y/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/EKAVA-a11y/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/EKAVA-a11y/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/EKAVA-a11y/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/EKAVA-a11y/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/EKAVA-a11y/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -52,6 +53,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1636-sort-array-by-increasing-frequency](https://github.com/EKAVA-a11y/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/EKAVA-a11y/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Stack
 |  |
@@ -61,4 +63,8 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/EKAVA-a11y/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Sorting
+|  |
+| ------- |
+| [1636-sort-array-by-increasing-frequency](https://github.com/EKAVA-a11y/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 <!---LeetCode Topics End-->
