@@ -8,6 +8,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/EKAVA-a11y/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/EKAVA-a11y/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/EKAVA-a11y/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2418-sort-the-people](https://github.com/EKAVA-a11y/leetcode/tree/master/2418-sort-the-people) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/EKAVA-a11y/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/EKAVA-a11y/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/EKAVA-a11y/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [1636-sort-array-by-increasing-frequency](https://github.com/EKAVA-a11y/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2418-sort-the-people](https://github.com/EKAVA-a11y/leetcode/tree/master/2418-sort-the-people) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/EKAVA-a11y/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Stack
 |  |
@@ -67,4 +69,9 @@
 |  |
 | ------- |
 | [1636-sort-array-by-increasing-frequency](https://github.com/EKAVA-a11y/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2418-sort-the-people](https://github.com/EKAVA-a11y/leetcode/tree/master/2418-sort-the-people) |
+## String
+|  |
+| ------- |
+| [2418-sort-the-people](https://github.com/EKAVA-a11y/leetcode/tree/master/2418-sort-the-people) |
 <!---LeetCode Topics End-->
