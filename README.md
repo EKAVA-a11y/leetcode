@@ -15,6 +15,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/EKAVA-a11y/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/EKAVA-a11y/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/EKAVA-a11y/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/EKAVA-a11y/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/EKAVA-a11y/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/EKAVA-a11y/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/EKAVA-a11y/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/EKAVA-a11y/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Number Theory
 |  |
 | ------- |
