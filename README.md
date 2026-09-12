@@ -108,6 +108,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/EKAVA-a11y/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0707-design-linked-list](https://github.com/EKAVA-a11y/leetcode/tree/master/0707-design-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/EKAVA-a11y/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
@@ -150,4 +151,8 @@
 |  |
 | ------- |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/EKAVA-a11y/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/EKAVA-a11y/leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
