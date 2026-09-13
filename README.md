@@ -76,6 +76,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/EKAVA-a11y/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/EKAVA-a11y/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/EKAVA-a11y/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2418-sort-the-people](https://github.com/EKAVA-a11y/leetcode/tree/master/2418-sort-the-people) |
@@ -100,6 +101,7 @@
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/EKAVA-a11y/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/EKAVA-a11y/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2418-sort-the-people](https://github.com/EKAVA-a11y/leetcode/tree/master/2418-sort-the-people) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/EKAVA-a11y/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -144,6 +146,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/EKAVA-a11y/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/EKAVA-a11y/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/EKAVA-a11y/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
