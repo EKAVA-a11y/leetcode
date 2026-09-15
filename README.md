@@ -24,6 +24,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/EKAVA-a11y/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/EKAVA-a11y/leetcode/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/EKAVA-a11y/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/EKAVA-a11y/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -54,6 +55,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/EKAVA-a11y/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/EKAVA-a11y/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/EKAVA-a11y/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/EKAVA-a11y/leetcode/tree/master/0213-house-robber-ii) |
@@ -176,4 +178,8 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/EKAVA-a11y/leetcode/tree/master/0389-find-the-difference) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/EKAVA-a11y/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
