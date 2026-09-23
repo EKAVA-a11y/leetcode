@@ -14,6 +14,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/EKAVA-a11y/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1019-next-greater-node-in-linked-list](https://github.com/EKAVA-a11y/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/EKAVA-a11y/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/EKAVA-a11y/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/EKAVA-a11y/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/EKAVA-a11y/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/EKAVA-a11y/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -209,6 +210,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/EKAVA-a11y/leetcode/tree/master/0064-minimum-path-sum) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/EKAVA-a11y/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
