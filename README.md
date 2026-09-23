@@ -153,6 +153,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/EKAVA-a11y/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/EKAVA-a11y/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/EKAVA-a11y/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/EKAVA-a11y/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -164,6 +165,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/EKAVA-a11y/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/EKAVA-a11y/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/EKAVA-a11y/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/EKAVA-a11y/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -219,6 +221,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/EKAVA-a11y/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/EKAVA-a11y/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Quicksort
 |  |
 | ------- |
