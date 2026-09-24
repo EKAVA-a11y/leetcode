@@ -11,6 +11,7 @@
 | [0455-assign-cookies](https://github.com/EKAVA-a11y/leetcode/tree/master/0455-assign-cookies) |
 | [0746-min-cost-climbing-stairs](https://github.com/EKAVA-a11y/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/EKAVA-a11y/leetcode/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/EKAVA-a11y/leetcode/tree/master/0867-transpose-matrix) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/EKAVA-a11y/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1019-next-greater-node-in-linked-list](https://github.com/EKAVA-a11y/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/EKAVA-a11y/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -73,6 +74,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/EKAVA-a11y/leetcode/tree/master/0867-transpose-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/EKAVA-a11y/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/EKAVA-a11y/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
@@ -212,6 +214,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/EKAVA-a11y/leetcode/tree/master/0064-minimum-path-sum) |
+| [0867-transpose-matrix](https://github.com/EKAVA-a11y/leetcode/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/EKAVA-a11y/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Divide and Conquer
 |  |
