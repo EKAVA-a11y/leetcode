@@ -36,6 +36,7 @@
 | [0062-unique-paths](https://github.com/EKAVA-a11y/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/EKAVA-a11y/leetcode/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/EKAVA-a11y/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/EKAVA-a11y/leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/EKAVA-a11y/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3280-convert-date-to-binary](https://github.com/EKAVA-a11y/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/EKAVA-a11y/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -71,6 +72,7 @@
 | [0213-house-robber-ii](https://github.com/EKAVA-a11y/leetcode/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/EKAVA-a11y/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/EKAVA-a11y/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/EKAVA-a11y/leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/EKAVA-a11y/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Simulation
 |  |
@@ -216,6 +218,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/EKAVA-a11y/leetcode/tree/master/0062-unique-paths) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/EKAVA-a11y/leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Matrix
 |  |
 | ------- |
