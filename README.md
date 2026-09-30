@@ -150,6 +150,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/EKAVA-a11y/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0203-remove-linked-list-elements](https://github.com/EKAVA-a11y/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0707-design-linked-list](https://github.com/EKAVA-a11y/leetcode/tree/master/0707-design-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/EKAVA-a11y/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1019-next-greater-node-in-linked-list](https://github.com/EKAVA-a11y/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
 |  |
