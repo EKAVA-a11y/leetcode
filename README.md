@@ -106,6 +106,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/EKAVA-a11y/leetcode/tree/master/0020-valid-parentheses) |
 | [1019-next-greater-node-in-linked-list](https://github.com/EKAVA-a11y/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/EKAVA-a11y/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/EKAVA-a11y/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -127,6 +128,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/EKAVA-a11y/leetcode/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/EKAVA-a11y/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/EKAVA-a11y/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/EKAVA-a11y/leetcode/tree/master/0389-find-the-difference) |
@@ -243,5 +245,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/EKAVA-a11y/leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/EKAVA-a11y/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
