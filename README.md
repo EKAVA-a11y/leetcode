@@ -8,6 +8,7 @@
 | [0198-house-robber](https://github.com/EKAVA-a11y/leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/EKAVA-a11y/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/EKAVA-a11y/leetcode/tree/master/0213-house-robber-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/EKAVA-a11y/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/EKAVA-a11y/leetcode/tree/master/0455-assign-cookies) |
 | [0746-min-cost-climbing-stairs](https://github.com/EKAVA-a11y/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0832-flipping-an-image](https://github.com/EKAVA-a11y/leetcode/tree/master/0832-flipping-an-image) |
@@ -120,6 +121,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/EKAVA-a11y/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/EKAVA-a11y/leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/EKAVA-a11y/leetcode/tree/master/0455-assign-cookies) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/EKAVA-a11y/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -200,6 +202,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/EKAVA-a11y/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/EKAVA-a11y/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -229,6 +232,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/EKAVA-a11y/leetcode/tree/master/0064-minimum-path-sum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/EKAVA-a11y/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0832-flipping-an-image](https://github.com/EKAVA-a11y/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/EKAVA-a11y/leetcode/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/EKAVA-a11y/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -250,4 +254,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/EKAVA-a11y/leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/EKAVA-a11y/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/EKAVA-a11y/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
