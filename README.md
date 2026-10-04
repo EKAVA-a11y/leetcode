@@ -136,6 +136,7 @@
 | [0383-ransom-note](https://github.com/EKAVA-a11y/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/EKAVA-a11y/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/EKAVA-a11y/leetcode/tree/master/0389-find-the-difference) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/EKAVA-a11y/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/EKAVA-a11y/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2418-sort-the-people](https://github.com/EKAVA-a11y/leetcode/tree/master/2418-sort-the-people) |
 | [3280-convert-date-to-binary](https://github.com/EKAVA-a11y/leetcode/tree/master/3280-convert-date-to-binary) |
@@ -149,6 +150,7 @@
 | [0860-lemonade-change](https://github.com/EKAVA-a11y/leetcode/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/EKAVA-a11y/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/EKAVA-a11y/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/EKAVA-a11y/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/EKAVA-a11y/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/EKAVA-a11y/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Linked List
@@ -196,6 +198,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/EKAVA-a11y/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/EKAVA-a11y/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/EKAVA-a11y/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/EKAVA-a11y/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/EKAVA-a11y/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
