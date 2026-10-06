@@ -116,6 +116,7 @@
 | [0020-valid-parentheses](https://github.com/EKAVA-a11y/leetcode/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/EKAVA-a11y/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/EKAVA-a11y/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/EKAVA-a11y/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/EKAVA-a11y/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/EKAVA-a11y/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/EKAVA-a11y/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -144,6 +145,7 @@
 | [0389-find-the-difference](https://github.com/EKAVA-a11y/leetcode/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/EKAVA-a11y/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/EKAVA-a11y/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/EKAVA-a11y/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/EKAVA-a11y/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/EKAVA-a11y/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2418-sort-the-people](https://github.com/EKAVA-a11y/leetcode/tree/master/2418-sort-the-people) |
@@ -158,6 +160,7 @@
 | [0455-assign-cookies](https://github.com/EKAVA-a11y/leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/EKAVA-a11y/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/EKAVA-a11y/leetcode/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/EKAVA-a11y/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/EKAVA-a11y/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/EKAVA-a11y/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/EKAVA-a11y/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -269,6 +272,7 @@
 | [0020-valid-parentheses](https://github.com/EKAVA-a11y/leetcode/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/EKAVA-a11y/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/EKAVA-a11y/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/EKAVA-a11y/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/EKAVA-a11y/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
 |  |
