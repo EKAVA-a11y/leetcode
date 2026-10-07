@@ -12,6 +12,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/EKAVA-a11y/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/EKAVA-a11y/leetcode/tree/master/0455-assign-cookies) |
 | [0746-min-cost-climbing-stairs](https://github.com/EKAVA-a11y/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0817-linked-list-components](https://github.com/EKAVA-a11y/leetcode/tree/master/0817-linked-list-components) |
 | [0832-flipping-an-image](https://github.com/EKAVA-a11y/leetcode/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/EKAVA-a11y/leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/EKAVA-a11y/leetcode/tree/master/0867-transpose-matrix) |
@@ -104,6 +105,7 @@
 | [0383-ransom-note](https://github.com/EKAVA-a11y/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/EKAVA-a11y/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/EKAVA-a11y/leetcode/tree/master/0389-find-the-difference) |
+| [0817-linked-list-components](https://github.com/EKAVA-a11y/leetcode/tree/master/0817-linked-list-components) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/EKAVA-a11y/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/EKAVA-a11y/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2418-sort-the-people](https://github.com/EKAVA-a11y/leetcode/tree/master/2418-sort-the-people) |
@@ -175,6 +177,7 @@
 | [0203-remove-linked-list-elements](https://github.com/EKAVA-a11y/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0707-design-linked-list](https://github.com/EKAVA-a11y/leetcode/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/EKAVA-a11y/leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0817-linked-list-components](https://github.com/EKAVA-a11y/leetcode/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/EKAVA-a11y/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
 |  |
