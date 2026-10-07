@@ -44,6 +44,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/EKAVA-a11y/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/EKAVA-a11y/leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/EKAVA-a11y/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/EKAVA-a11y/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3280-convert-date-to-binary](https://github.com/EKAVA-a11y/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/EKAVA-a11y/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/EKAVA-a11y/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/EKAVA-a11y/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/EKAVA-a11y/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/EKAVA-a11y/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/EKAVA-a11y/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/EKAVA-a11y/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/EKAVA-a11y/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/EKAVA-a11y/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2418-sort-the-people](https://github.com/EKAVA-a11y/leetcode/tree/master/2418-sort-the-people) |
 | [2788-split-strings-by-separator](https://github.com/EKAVA-a11y/leetcode/tree/master/2788-split-strings-by-separator) |
 | [3280-convert-date-to-binary](https://github.com/EKAVA-a11y/leetcode/tree/master/3280-convert-date-to-binary) |
