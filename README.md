@@ -156,6 +156,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/EKAVA-a11y/leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/EKAVA-a11y/leetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/EKAVA-a11y/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/EKAVA-a11y/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/EKAVA-a11y/leetcode/tree/master/0389-find-the-difference) |
@@ -245,6 +246,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/EKAVA-a11y/leetcode/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/EKAVA-a11y/leetcode/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/EKAVA-a11y/leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/EKAVA-a11y/leetcode/tree/master/0844-backspace-string-compare) |
