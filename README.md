@@ -11,6 +11,7 @@
 | [0198-house-robber](https://github.com/EKAVA-a11y/leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/EKAVA-a11y/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/EKAVA-a11y/leetcode/tree/master/0213-house-robber-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/EKAVA-a11y/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/EKAVA-a11y/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/EKAVA-a11y/leetcode/tree/master/0455-assign-cookies) |
 | [0746-min-cost-climbing-stairs](https://github.com/EKAVA-a11y/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/EKAVA-a11y/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0304-range-sum-query-2d-immutable](https://github.com/EKAVA-a11y/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/EKAVA-a11y/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/EKAVA-a11y/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Database
@@ -210,6 +212,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/EKAVA-a11y/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/EKAVA-a11y/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0304-range-sum-query-2d-immutable](https://github.com/EKAVA-a11y/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0707-design-linked-list](https://github.com/EKAVA-a11y/leetcode/tree/master/0707-design-linked-list) |
 ## Tree
 |  |
@@ -294,6 +297,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/EKAVA-a11y/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/EKAVA-a11y/leetcode/tree/master/0064-minimum-path-sum) |
+| [0304-range-sum-query-2d-immutable](https://github.com/EKAVA-a11y/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/EKAVA-a11y/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0832-flipping-an-image](https://github.com/EKAVA-a11y/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/EKAVA-a11y/leetcode/tree/master/0867-transpose-matrix) |
