@@ -1,20 +1,15 @@
-
 import java.util.*;
-
 class FrontMiddleBackQueue {
     LinkedList<Integer> left;
     LinkedList<Integer> right;
-
     public FrontMiddleBackQueue() {
         left = new LinkedList<>();
         right = new LinkedList<>();
     }
-
     public void pushFront(int val) {
         left.addFirst(val);
         balance();
     }
-
     public void pushMiddle(int val) {
         if (left.size() < right.size()) {
             left.addLast(val);
@@ -22,15 +17,12 @@ class FrontMiddleBackQueue {
             right.addFirst(val);
         }
     }
-
     public void pushBack(int val) {
         right.addLast(val);
         balance();
     }
-
     public int popFront() {
         if (left.isEmpty() && right.isEmpty()) return -1;
-
         int val;
         if (!left.isEmpty()) {
             val = left.removeFirst();
@@ -43,7 +35,6 @@ class FrontMiddleBackQueue {
 
     public int popMiddle() {
         if (left.isEmpty() && right.isEmpty()) return -1;
-
         int val;
         if (left.size() == right.size()) {
             val = left.removeLast();
@@ -53,10 +44,8 @@ class FrontMiddleBackQueue {
         balance();
         return val;
     }
-
     public int popBack() {
         if (left.isEmpty() && right.isEmpty()) return -1;
-
         int val;
         if (!right.isEmpty()) {
             val = right.removeLast();
@@ -66,7 +55,6 @@ class FrontMiddleBackQueue {
         balance();
         return val;
     }
-
     private void balance() {
         while (left.size() > right.size()) {
             right.addFirst(left.removeLast());
@@ -76,7 +64,6 @@ class FrontMiddleBackQueue {
         }
     }
 }
-
 /**
  * Your FrontMiddleBackQueue object will be instantiated and called as such:
  * FrontMiddleBackQueue obj = new FrontMiddleBackQueue();
