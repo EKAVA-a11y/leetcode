@@ -30,6 +30,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/EKAVA-a11y/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/EKAVA-a11y/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/EKAVA-a11y/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1670-design-front-middle-back-queue](https://github.com/EKAVA-a11y/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/EKAVA-a11y/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/EKAVA-a11y/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/EKAVA-a11y/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -207,6 +208,7 @@
 | [0725-split-linked-list-in-parts](https://github.com/EKAVA-a11y/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/EKAVA-a11y/leetcode/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/EKAVA-a11y/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1670-design-front-middle-back-queue](https://github.com/EKAVA-a11y/leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Design
 |  |
 | ------- |
@@ -214,6 +216,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/EKAVA-a11y/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/EKAVA-a11y/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0707-design-linked-list](https://github.com/EKAVA-a11y/leetcode/tree/master/0707-design-linked-list) |
+| [1670-design-front-middle-back-queue](https://github.com/EKAVA-a11y/leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Tree
 |  |
 | ------- |
@@ -281,6 +284,7 @@
 | [0225-implement-stack-using-queues](https://github.com/EKAVA-a11y/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/EKAVA-a11y/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/EKAVA-a11y/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1670-design-front-middle-back-queue](https://github.com/EKAVA-a11y/leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -343,4 +347,12 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/EKAVA-a11y/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/EKAVA-a11y/leetcode/tree/master/1670-design-front-middle-back-queue) |
+## Data Stream
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/EKAVA-a11y/leetcode/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
