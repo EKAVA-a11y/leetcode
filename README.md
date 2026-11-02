@@ -14,6 +14,7 @@
 | [0213-house-robber-ii](https://github.com/EKAVA-a11y/leetcode/tree/master/0213-house-robber-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/EKAVA-a11y/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/EKAVA-a11y/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/EKAVA-a11y/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/EKAVA-a11y/leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/EKAVA-a11y/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/EKAVA-a11y/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -51,6 +52,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/EKAVA-a11y/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/EKAVA-a11y/leetcode/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/EKAVA-a11y/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/EKAVA-a11y/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/EKAVA-a11y/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/EKAVA-a11y/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
