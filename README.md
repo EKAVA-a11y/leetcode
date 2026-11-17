@@ -46,6 +46,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/EKAVA-a11y/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/EKAVA-a11y/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/EKAVA-a11y/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/EKAVA-a11y/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/EKAVA-a11y/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/EKAVA-a11y/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Math
@@ -65,6 +66,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/EKAVA-a11y/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/EKAVA-a11y/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/EKAVA-a11y/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/EKAVA-a11y/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/EKAVA-a11y/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/EKAVA-a11y/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/EKAVA-a11y/leetcode/tree/master/3871-count-commas-in-range-ii) |
