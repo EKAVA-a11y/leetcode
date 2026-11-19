@@ -63,6 +63,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/EKAVA-a11y/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/EKAVA-a11y/leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/EKAVA-a11y/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/EKAVA-a11y/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/EKAVA-a11y/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3280-convert-date-to-binary](https://github.com/EKAVA-a11y/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/EKAVA-a11y/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -179,6 +180,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/EKAVA-a11y/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/EKAVA-a11y/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/EKAVA-a11y/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/EKAVA-a11y/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/EKAVA-a11y/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/EKAVA-a11y/leetcode/tree/master/2418-sort-the-people) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/EKAVA-a11y/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -218,6 +220,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/EKAVA-a11y/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1710-maximum-units-on-a-truck](https://github.com/EKAVA-a11y/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/EKAVA-a11y/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/EKAVA-a11y/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/EKAVA-a11y/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/EKAVA-a11y/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Linked List
