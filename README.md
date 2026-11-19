@@ -161,12 +161,14 @@
 | [1021-remove-outermost-parentheses](https://github.com/EKAVA-a11y/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/EKAVA-a11y/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/EKAVA-a11y/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2487-remove-nodes-from-linked-list](https://github.com/EKAVA-a11y/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/EKAVA-a11y/leetcode/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/EKAVA-a11y/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/EKAVA-a11y/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2487-remove-nodes-from-linked-list](https://github.com/EKAVA-a11y/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -233,6 +235,7 @@
 | [0817-linked-list-components](https://github.com/EKAVA-a11y/leetcode/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/EKAVA-a11y/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1670-design-front-middle-back-queue](https://github.com/EKAVA-a11y/leetcode/tree/master/1670-design-front-middle-back-queue) |
+| [2487-remove-nodes-from-linked-list](https://github.com/EKAVA-a11y/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -302,6 +305,7 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/EKAVA-a11y/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [2487-remove-nodes-from-linked-list](https://github.com/EKAVA-a11y/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
 |  |
 | ------- |
