@@ -17,6 +17,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/EKAVA-a11y/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/EKAVA-a11y/leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/EKAVA-a11y/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0496-next-greater-element-i](https://github.com/EKAVA-a11y/leetcode/tree/master/0496-next-greater-element-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/EKAVA-a11y/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0817-linked-list-components](https://github.com/EKAVA-a11y/leetcode/tree/master/0817-linked-list-components) |
 | [0832-flipping-an-image](https://github.com/EKAVA-a11y/leetcode/tree/master/0832-flipping-an-image) |
@@ -134,6 +135,7 @@
 | [0383-ransom-note](https://github.com/EKAVA-a11y/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/EKAVA-a11y/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/EKAVA-a11y/leetcode/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/EKAVA-a11y/leetcode/tree/master/0496-next-greater-element-i) |
 | [0817-linked-list-components](https://github.com/EKAVA-a11y/leetcode/tree/master/0817-linked-list-components) |
 | [1122-relative-sort-array](https://github.com/EKAVA-a11y/leetcode/tree/master/1122-relative-sort-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/EKAVA-a11y/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -149,6 +151,7 @@
 | [0020-valid-parentheses](https://github.com/EKAVA-a11y/leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/EKAVA-a11y/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/EKAVA-a11y/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/EKAVA-a11y/leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/EKAVA-a11y/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/EKAVA-a11y/leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/EKAVA-a11y/leetcode/tree/master/0856-score-of-parentheses) |
@@ -160,6 +163,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/EKAVA-a11y/leetcode/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/EKAVA-a11y/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/EKAVA-a11y/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Sorting
