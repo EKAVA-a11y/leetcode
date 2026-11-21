@@ -38,6 +38,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/EKAVA-a11y/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1670-design-front-middle-back-queue](https://github.com/EKAVA-a11y/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1710-maximum-units-on-a-truck](https://github.com/EKAVA-a11y/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/EKAVA-a11y/leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/EKAVA-a11y/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/EKAVA-a11y/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/EKAVA-a11y/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -62,6 +63,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/EKAVA-a11y/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/EKAVA-a11y/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/EKAVA-a11y/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/EKAVA-a11y/leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/EKAVA-a11y/leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/EKAVA-a11y/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/EKAVA-a11y/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -388,4 +390,8 @@
 |  |
 | ------- |
 | [1670-design-front-middle-back-queue](https://github.com/EKAVA-a11y/leetcode/tree/master/1670-design-front-middle-back-queue) |
+## Geometry
+|  |
+| ------- |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/EKAVA-a11y/leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 <!---LeetCode Topics End-->
