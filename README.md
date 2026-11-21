@@ -42,6 +42,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/EKAVA-a11y/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/EKAVA-a11y/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/EKAVA-a11y/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/EKAVA-a11y/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/EKAVA-a11y/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/EKAVA-a11y/leetcode/tree/master/2418-sort-the-people) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/EKAVA-a11y/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -66,6 +67,7 @@
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/EKAVA-a11y/leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/EKAVA-a11y/leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/EKAVA-a11y/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/EKAVA-a11y/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/EKAVA-a11y/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/EKAVA-a11y/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3280-convert-date-to-binary](https://github.com/EKAVA-a11y/leetcode/tree/master/3280-convert-date-to-binary) |
@@ -207,6 +209,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/EKAVA-a11y/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/EKAVA-a11y/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/EKAVA-a11y/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/EKAVA-a11y/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/EKAVA-a11y/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2418-sort-the-people](https://github.com/EKAVA-a11y/leetcode/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/EKAVA-a11y/leetcode/tree/master/2716-minimize-string-length) |
@@ -341,6 +344,7 @@
 | [0885-spiral-matrix-iii](https://github.com/EKAVA-a11y/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/EKAVA-a11y/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/EKAVA-a11y/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/EKAVA-a11y/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Divide and Conquer
 |  |
 | ------- |
