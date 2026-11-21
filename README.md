@@ -41,6 +41,7 @@
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/EKAVA-a11y/leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/EKAVA-a11y/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/EKAVA-a11y/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/EKAVA-a11y/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/EKAVA-a11y/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/EKAVA-a11y/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/EKAVA-a11y/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -189,6 +190,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/EKAVA-a11y/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/EKAVA-a11y/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/EKAVA-a11y/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/EKAVA-a11y/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/EKAVA-a11y/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/EKAVA-a11y/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/EKAVA-a11y/leetcode/tree/master/2418-sort-the-people) |
@@ -229,6 +231,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/EKAVA-a11y/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/EKAVA-a11y/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1710-maximum-units-on-a-truck](https://github.com/EKAVA-a11y/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/EKAVA-a11y/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/EKAVA-a11y/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/EKAVA-a11y/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/EKAVA-a11y/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -378,6 +381,7 @@
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/EKAVA-a11y/leetcode/tree/master/1122-relative-sort-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/EKAVA-a11y/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Bubble Sort
 |  |
 | ------- |
