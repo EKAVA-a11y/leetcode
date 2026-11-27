@@ -43,6 +43,7 @@
 | [1670-design-front-middle-back-queue](https://github.com/EKAVA-a11y/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1710-maximum-units-on-a-truck](https://github.com/EKAVA-a11y/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/EKAVA-a11y/leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [1861-rotating-the-box](https://github.com/EKAVA-a11y/leetcode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/EKAVA-a11y/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/EKAVA-a11y/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/EKAVA-a11y/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -322,6 +323,7 @@
 | [0844-backspace-string-compare](https://github.com/EKAVA-a11y/leetcode/tree/master/0844-backspace-string-compare) |
 | [0922-sort-array-by-parity-ii](https://github.com/EKAVA-a11y/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1089-duplicate-zeros](https://github.com/EKAVA-a11y/leetcode/tree/master/1089-duplicate-zeros) |
+| [1861-rotating-the-box](https://github.com/EKAVA-a11y/leetcode/tree/master/1861-rotating-the-box) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/EKAVA-a11y/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/EKAVA-a11y/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Recursion
@@ -359,6 +361,7 @@
 | [0885-spiral-matrix-iii](https://github.com/EKAVA-a11y/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [1314-matrix-block-sum](https://github.com/EKAVA-a11y/leetcode/tree/master/1314-matrix-block-sum) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/EKAVA-a11y/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1861-rotating-the-box](https://github.com/EKAVA-a11y/leetcode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/EKAVA-a11y/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/EKAVA-a11y/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Divide and Conquer
